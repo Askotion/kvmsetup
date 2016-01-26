@@ -1,2 +1,2 @@
 # kvmsetup
-Dedicated Server Setupscript For KVM And A Test VM.
+Dedicated server setupscript for KVM and a test VM.
